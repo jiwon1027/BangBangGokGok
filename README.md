@@ -20,7 +20,7 @@
 
 ### 4. [**프로젝트 구성도**](#프로젝트-구성도)
 
-### 5. [**UCC 영상**](#ucc-영상)
+### 5. [****](#메인-화면)
 
 ### 6. [**프로젝트 기간**](#프로젝트-기간)
 
@@ -151,11 +151,9 @@
 
 <br />
 
-# 🎥UCC 영상
+# 🎥메인 화면
 
-[<img src="./assets/readme/bbkklogo.png" width="300" alt="UCC 영상 바로가기" />](https://youtu.be/youtube)
-
-> 새 창 열기 방법 : Ctrl + click (on Windows and Linux) | CMD + click (on MacOS)
+<img src="./assets/scenario/8. main-user.png" alt="main-user" width=400px />
 
 <br />
 
